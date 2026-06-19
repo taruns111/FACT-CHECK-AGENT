@@ -2,7 +2,7 @@
 
 An AI-powered Streamlit app that automatically extracts factual claims from any PDF document and verifies each one against live web search — flagging outdated stats, inaccurate figures, and unverifiable assertions.
 
-**Live demo:** [Add your Streamlit Cloud link here]
+**Live demo:** https://tarun-assessment.streamlit.app/
 
 ---
 
